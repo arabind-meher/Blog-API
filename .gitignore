@@ -1,0 +1,5 @@
+__pycache__/
+credentials.env
+credentials/
+firebase.py
+test/
